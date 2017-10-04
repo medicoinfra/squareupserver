@@ -1,0 +1,8 @@
+{
+	"WebService" : {
+		"TestURL" : "http://127.0.0.1:3002/",
+		"ProductionURL" : "http://medicoinfraserver-medicoinfra.rhcloud.com/",
+		"username" : "ramesh",
+		"password" : "password3"
+	}
+}
